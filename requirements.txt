@@ -1,0 +1,4 @@
+wikipedia
+requests
+pillow
+beautifulsoup4
