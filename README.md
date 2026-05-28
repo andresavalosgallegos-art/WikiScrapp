@@ -44,7 +44,7 @@ WikiScrapp/
 Clona el repositorio:
 
 ```
-git clone https://github.com/andresavalosgallegos-art/WikiScrapp.git
+git clone https://github.com/Qmaker-programmer/WikiScrapp.git
 cd WikiScrapp
 ```
 
@@ -62,43 +62,11 @@ python main.py
 
 ---
 
-## 🖥️ Ejecutable (.EXE)
-
-Puedes descargar la versión compilada para Windows desde la sección **Releases**:
-
-👉 [https://github.com/andresavalosgallegos-art/WikiScrapp/releases](https://github.com/andresavalosgallegos-art/WikiScrapp/releases)
-
-Solo descarga el archivo `.exe` y ejecútalo. ¡No necesitas instalar Python!
-
----
-
-## 🛠️ Cómo compilar tu propio .EXE
-
-Instala PyInstaller:
-
-```
-pip install pyinstaller
-```
-
-Compila:
-
-```
-pyinstaller --onefile --windowed main.py
-```
-
-El ejecutable aparecerá dentro de:
-
-```
-dist/main.exe
-```
-
----
-
 ## 🌐 Página Web del Proyecto
 
 Puedes ver la página del repositorio aquí:
 
-👉 [https://github.com/andresavalosgallegos-art/WikiScrapp/tree/main](https://github.com/andresavalosgallegos-art/WikiScrapp/tree/main)
+👉 [https://github.com/andresavalosgallegos-art/WikiScrapp/tree/main](https://github.com/Qmaker-programmer/WikiScrapp)
 
 Ideal para documentación, descargas y futuras actualizaciones.
 
@@ -106,7 +74,7 @@ Ideal para documentación, descargas y futuras actualizaciones.
 
 ## 👨‍💻 Autor
 
-Desarrollado por **Andrés Santiago Ávalos Gallegos**.
+Desarrollado por **Qmaker**.
 
 ---
 
